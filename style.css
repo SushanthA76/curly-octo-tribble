@@ -1,0 +1,35 @@
+
+body{
+   background-image:linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);;
+   
+     border-radius: 5px;
+
+     border: 4px solid goldenrod;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+
+    
+}
+input{
+    border: 2px solid black;
+    padding: 20px 10px 2px;
+    border-radius: 8px;
+}
+#form1{
+    background-color: aqua;
+    text-shadow: 4px;
+    padding: 30px;
+    border-radius: 30px;
+}
+#btn{
+    border:3px;
+    border-color: black;
+    padding: 8px;
+    align:center;
+}
+
+
+
